@@ -1,6 +1,6 @@
 # Transferwise
 
-**TODO: Add description**
+**This is still pre Alpha.**
 
 ## Installation
 
