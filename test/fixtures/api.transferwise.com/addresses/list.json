@@ -1,0 +1,26 @@
+[
+  {
+    "id": 236532,
+    "profile": 217896,
+    "details": {
+      "country": "EE",
+      "firstLine": "Salu tee 114",
+      "postCode": "12112",
+      "city": "Tallinn",
+      "state": "",
+      "occupation": ""
+    }
+  },
+  {
+    "id": 240402,
+    "profile": 220192,
+    "details": {
+      "country": "EE",
+      "firstLine": "2-9, Pärsama küla",
+      "postCode": "94201",
+      "city": "Leisi vald, Saaremaa",
+      "state": "",
+      "occupation": ""
+    }
+  }
+]

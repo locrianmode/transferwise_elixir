@@ -1,0 +1,31 @@
+[
+  {
+    "id": 217896,
+    "type": "personal",
+    "details": {
+      "firstName": "Lauri",
+      "lastName": "Hein",
+      "dateOfBirth": "1977-07-01",
+      "phoneNumber": "+3725064992",
+      "avatar": "https://lh6.googleusercontent.com/-XzeFZ2PJE1A/AAAAAAAAAAI/AAAAAAAAAAA/RvuvhXFsqs0/photo.jpg",
+      "occupation": null,
+      "primaryAddress": 236532
+    }
+  },
+  {
+    "id": 220192,
+    "type": "business",
+    "details": {
+      "name": "OÜ Import-Export",
+      "registrationNumber": "12144939",
+      "acn": null,
+      "abn": null,
+      "arbn": null,
+      "companyType": "LIMITED",
+      "companyRole": "OWNER",
+      "descriptionOfBusiness": "Information and communication",
+      "primaryAddress": 240402,
+      "webpage": ""
+    }
+  }
+]

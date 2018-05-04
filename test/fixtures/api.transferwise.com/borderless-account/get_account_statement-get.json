@@ -1,0 +1,45 @@
+[
+  {
+    "id": 101836,
+    "currency": "EUR",
+    "amount": -500,
+    "dateTime": "2017-09-12T14:10:29.928Z[UTC]",
+    "paymentFee": 2.49,
+    "exchangeRate": 0.9011,
+    "date": "2017-09-12",
+    "paymentStatus": "completed",
+    "senderName": "",
+    "description": "Converted 500.00 EUR to GBP",
+    "payeeName": "",
+    "payeeAccountNumber": ""
+  },
+  {
+    "id": 94741,
+    "currency": "EUR",
+    "amount": -1000,
+    "dateTime": "2017-09-07T11:04:51.853Z[UTC]",
+    "paymentFee": 4.98,
+    "exchangeRate": 0.9148,
+    "date": "2017-09-07",
+    "paymentStatus": "completed",
+    "senderName": "",
+    "description": "Converted 1000.00 EUR to GBP",
+    "payeeName": "",
+    "payeeAccountNumber": ""
+  },
+  {
+    "id": 23066309,
+    "paymentStatus": "completed",
+    "paymentFee": 0,
+    "paymentReference": "SVWZ+money for testing",
+    "exchangeRate": "",
+    "senderName": "POLDRA VAMBO",
+    "currency": "EUR",
+    "amount": 20,
+    "dateTime": "2017-09-25T16:42:46Z[UTC]",
+    "date": "2017-09-25",
+    "payeeName": "",
+    "payeeAccountNumber": "",
+    "description": "Received 20.0 EUR"
+  }
+]

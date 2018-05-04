@@ -1,0 +1,56 @@
+{
+  "id": 127,
+  "profileId": 1651254,
+  "recipientId": 5936753,
+  "creationTime": "2016-11-28T15:24:40Z",
+  "modificationTime": "2017-03-01T10:11:31Z",
+  "active": true,
+  "balances": [
+    {
+      "balanceType": "AVAILABLE",
+      "amount": {
+        "value": 0,
+        "currency": "GBP"
+      },
+      "bankDetails": {
+        "id": 1000048,
+        "currency": "GBP",
+        "bankCode": "231470",
+        "accountNumber": "10000246",
+        "bankName": "TransferWise",
+        "accountHolderName": "Hein Lauri",
+        "bankAddress": {
+          "addressFirstLine": "56 Shoreditch High Street",
+          "postCode": "E1 6JJ",
+          "city": "London",
+          "country": "GB",
+          "stateCode": null
+        }
+      }
+    },
+    {
+      "balanceType": "AVAILABLE",
+      "amount": {
+        "value": 7.92,
+        "currency": "EUR"
+      },
+      "bankDetails": {
+        "id": 90,
+        "currency": "EUR",
+        "bankCode": "70011110",
+        "accountNumber": "6050000891",
+        "swift": "DEKTDE7GXXX",
+        "iban": "DE51700111106050000891",
+        "bankName": "Deutsche Handelsbank",
+        "accountHolderName": "TW/Hein Lauri",
+        "bankAddress": {
+          "addressFirstLine": "Südliche Münchner Str. 2",
+          "postCode": "82031",
+          "city": "Grünwald",
+          "country": "DE",
+          "stateCode": null
+        }
+      }
+    }
+  ]
+}

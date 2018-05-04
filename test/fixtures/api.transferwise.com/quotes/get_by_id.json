@@ -1,0 +1,20 @@
+{
+  "id": 113293,
+  "source": "GBP",
+  "target": "CHF",
+  "sourceAmount": 690,
+  "targetAmount": 845.19,
+  "type": "REGULAR",
+  "rate": 1.22491,
+  "createdTime": "2017-03-14T07:58:00Z",
+  "createdByUserId": 294205,
+  "rateType": "FIXED",
+  "deliveryEstimate": "2017-03-15T12:02:00Z",
+  "fee": 0,
+  "allowedProfileTypes": [
+    "PERSONAL",
+    "BUSINESS"
+  ],
+  "guaranteedTargetAmount": false,
+  "ofSourceAmount": true
+}

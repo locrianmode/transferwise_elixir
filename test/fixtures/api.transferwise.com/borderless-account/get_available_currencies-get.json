@@ -1,0 +1,77 @@
+[
+  {
+    "code": "EUR",
+    "hasBankDetails": true,
+    "payInAllowed": true
+  },
+  {
+    "code": "GBP",
+    "hasBankDetails": true,
+    "payInAllowed": true
+  },
+  {
+    "code": "USD",
+    "hasBankDetails": false,
+    "payInAllowed": false
+  },
+  {
+    "code": "SEK",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "NOK",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "DKK",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "CHF",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "PLN",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "HUF",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "AUD",
+    "hasBankDetails": false,
+    "payInAllowed": false
+  },
+  {
+    "code": "JPY",
+    "hasBankDetails": false,
+    "payInAllowed": false
+  },
+  {
+    "code": "CAD",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "NZD",
+    "hasBankDetails": false,
+    "payInAllowed": true
+  },
+  {
+    "code": "HKD",
+    "hasBankDetails": false,
+    "payInAllowed": false
+  },
+  {
+    "code": "SGD",
+    "hasBankDetails": false,
+    "payInAllowed": false
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "id": 294205,
+  "name": "Lauri Hein",
+  "email": "lauri@transferwise.com",
+  "active": true,
+  "details": {
+    "firstName": "Lauri",
+    "lastName": "Hein",
+    "phoneNumber": "+3725064992",
+    "occupation": "",
+    "address": {
+      "city": "Tallinn",
+      "countryCode": "EE",
+      "postCode": "12112",
+      "state": "",
+      "firstLine": "Salu tee 134"
+    },
+    "dateOfBirth": "1977-07-01",
+    "avatar": "https://lh6.googleusercontent.com/-XzeFZ2PJE1A/AAAAAAAAAAI/AAAAAAAAAAA/RvuvhXFsqs0/photo.jpg",
+    "primaryAddress": 236532
+  }
+}

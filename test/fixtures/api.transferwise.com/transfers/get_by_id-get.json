@@ -1,0 +1,22 @@
+{
+  "id": 15574445,
+  "user": 294205,
+  "targetAccount": 7993919,
+  "sourceAccount": null,
+  "quote": 113379,
+  "status": "incoming_payment_waiting",
+  "reference": "good times",
+  "rate": 1.2151,
+  "created": "2017-03-14 15:25:51",
+  "business": null,
+  "transferRequest": null,
+  "details": {
+    "reference": "good times"
+  },
+  "hasActiveIssues": false,
+  "sourceValue": 1000,
+  "sourceCurrency": "EUR",
+  "targetValue": 895.32,
+  "targetCurrency": "GPB",
+  "customerTransactionId": "6D9188CF-FA59-44C3-87A2-4506CE9C1EA3"
+}

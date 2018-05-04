@@ -1,0 +1,7 @@
+[
+  {
+    "type": "Payment has bounced back",
+    "state": "OPENED",
+    "description": "Incorrect recipient account number"
+  }
+]

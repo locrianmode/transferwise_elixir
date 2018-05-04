@@ -1,0 +1,137 @@
+[
+  {
+    "type": "DEPOSIT",
+    "id": 557,
+    "transactionId": 557,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2016-11-28T16:12:18Z",
+    "creationTime": "2016-11-28T16:12:18Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 5.12,
+      "currency": "GBP"
+    },
+    "transferId": 12340152
+  },
+  {
+    "type": "DEPOSIT",
+    "id": 888,
+    "transactionId": 888,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2016-12-23T08:02:05Z",
+    "creationTime": "2016-12-23T08:02:05Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 2,
+      "currency": "EUR"
+    },
+    "transferId": 13112481
+  },
+  {
+    "type": "CONVERSION",
+    "id": 1393,
+    "transactionId": 1393,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2017-01-23T15:53:53Z",
+    "creationTime": "2017-01-23T15:53:53Z",
+    "feeAmounts": [
+      {
+        "value": 0.03,
+        "currency": "GBP"
+      }
+    ],
+    "sourceAmount": {
+      "value": 5.12,
+      "currency": "GBP"
+    },
+    "targetAmount": {
+      "value": 5.92,
+      "currency": "EUR"
+    },
+    "rate": 1.1631
+  },
+  {
+    "type": "WITHDRAWAL",
+    "id": 1394,
+    "transactionId": 1394,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2017-01-23T15:57:37Z",
+    "creationTime": "2017-01-23T15:57:37Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 3,
+      "currency": "EUR"
+    },
+    "transferId": 13983084
+  },
+  {
+    "type": "WITHDRAWAL",
+    "id": 1396,
+    "transactionId": 1396,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2017-01-23T16:10:39Z",
+    "creationTime": "2017-01-23T16:10:39Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 4,
+      "currency": "EUR"
+    },
+    "transferId": 13983372
+  },
+  {
+    "type": "DEPOSIT",
+    "id": 1413,
+    "transactionId": 1413,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2017-01-24T07:24:14Z",
+    "creationTime": "2017-01-24T07:24:14Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 3,
+      "currency": "EUR"
+    },
+    "transferId": 13983084
+  },
+  {
+    "type": "DEPOSIT",
+    "id": 1414,
+    "transactionId": 1414,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2017-01-24T07:25:11Z",
+    "creationTime": "2017-01-24T07:25:11Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 4,
+      "currency": "EUR"
+    },
+    "transferId": 13983372
+  },
+  {
+    "type": "WITHDRAWAL",
+    "id": 1486,
+    "transactionId": 1486,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2017-01-26T13:59:05Z",
+    "creationTime": "2017-01-26T13:59:05Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 4.22,
+      "currency": "EUR"
+    },
+    "transferId": 14096455
+  },
+  {
+    "type": "DEPOSIT",
+    "id": 1487,
+    "transactionId": 1487,
+    "state": "COMPLETED",
+    "transactionCreationTime": "2017-01-26T14:01:22Z",
+    "creationTime": "2017-01-26T14:01:22Z",
+    "feeAmounts": [],
+    "amount": {
+      "value": 4.22,
+      "currency": "EUR"
+    },
+    "transferId": 14096455
+  }
+]

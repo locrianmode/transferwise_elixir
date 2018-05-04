@@ -1,0 +1,19 @@
+{
+  "source": "SEK",
+  "target": "GBP",
+  "sourceAmount": 1200,
+  "targetAmount": 108.64,
+  "type": "REGULAR",
+  "rate": 0.09129,
+  "createdTime": "2017-03-13T15:33:46.527Z",
+  "createdByUserId": 0,
+  "rateType": "FIXED",
+  "deliveryEstimate": "2017-03-14T10:29:00Z",
+  "fee": 10,
+  "allowedProfileTypes": [
+    "PERSONAL",
+    "BUSINESS"
+  ],
+  "guaranteedTargetAmount": false,
+  "ofSourceAmount": true
+}
